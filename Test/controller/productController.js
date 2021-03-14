@@ -1,4 +1,4 @@
-exports.getProducts = async (req,res) => {
+exports.getProducts = async (req, res, next) => {
     try{
         res.status(200).json({
             message : 'Started to get Products',
