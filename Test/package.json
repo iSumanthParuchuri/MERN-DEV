@@ -6,7 +6,7 @@
   "scripts": {
     "test": "SET NODE_ENV=TESTING & nodemon index"
   },
-  "author": "",
+  "author": "Sumanth Paruchuri",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^8.2.0",
