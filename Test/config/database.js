@@ -11,7 +11,7 @@ const connectDatabase = () => {
         useFindAndModify: false,
         useUnifiedTopology: true,
       }).then(con => {
-          console.log(`MongoDB connected with HOST : ${process.env.DB_LOCAL_URL}`);
+          console.log(`MongoDB connected with HOST : ${con.connection.host}`);
       });
 }
 
