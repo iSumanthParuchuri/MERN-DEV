@@ -12,4 +12,8 @@ routing.use((req, res, next) => {
 
 routing.get('/products', productController.getProducts);
 
+routing.post('/Products/newC',productController.newCheck);
+
+routing.post('/Products/new',productController.newProducts);
+
 module.exports = routing;
