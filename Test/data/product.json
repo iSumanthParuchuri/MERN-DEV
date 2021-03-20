@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Dell Inspiron 15",
+        "price": 45000,
+        "description": "Dell Inspiron 15 is a Windows 10 Home laptop with a 15.60-inch display that has a resolution of 1920x1080 pixels. It is powered by a Core i5 processor and it comes with 8GB of RAM. The Dell Inspiron 15 packs 1TB of HDD storage. Graphics are powered by AMD Radeon 530 Graphics.",
+        "ratings": 4.5,
+        "images":[
+            {
+                "public_id": "in5593nt_cnb_00055lf110_gy",
+                "url": "https://i.dell.com/is/image/DellContent/content/dam/global-asset-library/Products/Notebooks/Inspiron/15_5593_non-touch/in5593nt_cnb_00055lf110_gy.psd?$S7-570x400$&layer=1&src=is{DellContent/content/dam/global-asset-library/Supporting_Assets/Screenfills/inspiron/Inspiron_F60A8784.psd?size=4000,4000}&perspective=2089,1266,3588,910,3268,2357,1818,2276&pos=-174,-809&wid=570&hei=400"
+            },
+            {
+                "public_id": "13-7300-15-7591-800x620",
+                "url": "https://i.dell.com/is/image/DellContent//content/dam/global-site-design/product_images/dell_client_products/notebooks/inspiron_notebooks/13_7300/general/new-cat-page-tile-laptop-inspiron-13-7300-15-7591-800x620.png?fmt=png-alpha&amp;wid=800&amp;hei=620"
+            }
+        ],
+        "category": "Laptops",
+        "seller": "Sumanth Paruchuri",
+        "stock": 16,
+        "numOfReviews": 0,
+        "reviews": []
+    }
+]
