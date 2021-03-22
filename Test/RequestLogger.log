@@ -1,3 +1,8 @@
 Mon Mar 22 2021 21:41:51 GMT+0530 (India Standard Time) - GET - /products - [object Object] 
 Mon Mar 22 2021 21:41:52 GMT+0530 (India Standard Time) - GET - /favicon.ico - [object Object] 
 Mon Mar 22 2021 21:42:06 GMT+0530 (India Standard Time) - GET - /products/new - [object Object] 
+Mon Mar 22 2021 22:02:36 GMT+0530 (India Standard Time) - POST - /login - [object Object] 
+Mon Mar 22 2021 22:03:12 GMT+0530 (India Standard Time) - POST - /login - [object Object] 
+Mon Mar 22 2021 22:03:43 GMT+0530 (India Standard Time) - GET - /login?username=paruchuri.sumanth.279%40gmail.com&password=Password&submit1=Register - [object Object] 
+Mon Mar 22 2021 22:03:58 GMT+0530 (India Standard Time) - GET - /login?username=Sumanth&password=&submit1=Register - [object Object] 
+Mon Mar 22 2021 22:06:40 GMT+0530 (India Standard Time) - GET - /login?username=Sumanth&password=&submit1=Register - [object Object] 

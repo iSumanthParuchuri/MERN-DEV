@@ -49,3 +49,8 @@ exports.getProducts = async (req, res, next) => {
         });
     }
 };
+
+exports.htmlLogin = async (req, res) => {
+    console.log(req.query.username);
+    res.send('<h1>Hello ' + req.query.username + ' your details are registered</h1>');
+};

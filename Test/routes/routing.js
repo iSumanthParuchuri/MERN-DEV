@@ -16,4 +16,6 @@ routing.post('/Products/newC',productController.newCheck);
 
 routing.post('/Products/new',productController.newProducts);
 
+routing.get('/login',productController.htmlLogin);
+
 module.exports = routing;
